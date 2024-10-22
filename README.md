@@ -1,4 +1,4 @@
-# CAPSTONE DEMO README
+# IZABEL CAPSTONE PROJECT README
 
 ### Describe your project (big idea)
 
